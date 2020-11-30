@@ -4,3 +4,4 @@
 
 layout: home
 ---
+{% include index.html %}
