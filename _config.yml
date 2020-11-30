@@ -16,7 +16,7 @@
 title: Caleb Rollins' Portfolio
 description: > # this means to ignore newlines until "baseurl:"
   A place to see my work on various projects
-baseurl: "/portfolio"
+baseurl: ""
 url: "https://crollins18.github.io"
 permalink: /:year/:month/:day/:title
 repository: crollins18/portfolio
