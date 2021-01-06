@@ -20,6 +20,7 @@ baseurl: ""
 url: "https://crollins18.github.io"
 permalink: /:year/:month/:day/:title
 repository: crollins18/portfolio
+paginate_path: posts/page:num/
 paginate: 5
 
 # MatJek specific configurations
